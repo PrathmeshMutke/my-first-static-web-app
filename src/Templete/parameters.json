@@ -1,0 +1,42 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_Healthbotservice_name": {
+            "value": null
+        },
+        "serverfarms_Healthbotservice_name": {
+            "value": null
+        },
+        "sites_healthbotservice_bot_ada0_name": {
+            "value": null
+        },
+        "storageAccounts_healthbotweb_name": {
+            "value": null
+        },
+        "components_Healthbotservice_ai_name": {
+            "value": null
+        },
+        "botServices_healthbotservice_bot_name": {
+            "value": null
+        },
+        "accounts_Healthbotservice_name": {
+            "value": null
+        },
+        "searchServices_healthbotservice_asazgnzah54y4oa_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___healthbotcovid_ai_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___healthbotservice_ai_name": {
+            "value": null
+        },
+        "components_healthbotcovid_ai_externalid": {
+            "value": null
+        }
+    }
+}
