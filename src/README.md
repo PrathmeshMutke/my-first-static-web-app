@@ -1,9 +1,6 @@
 # Health-i-bot
 
-The project was created by Team Binary#404 for FrostHack'21 IIT Mandi.
-Team Members: Dibyanshu Mohanty
-              Preetish Biswal
-              Himanshu Shah
+
               
 ### CODE LINKS:
 hEALTH-I-BOT Backend code link: https://github.com/dibyanshu-mohanty/Health-i-bot
